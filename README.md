@@ -3,14 +3,6 @@
   <img src="https://raw.githubusercontent.com/markkingsgroup/markkingsgroup/main/assets/banner.png" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=markkingsgroup&color=00F5FF&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/markkingsgroup/markkingsgroup/main/assets/logo.png" width="220"/>
-</p>
-
 <h1 align="center">🚀 MarkKings Group</h1>
 <h3 align="center">Cloud Security • AI Automation • Digital Innovation</h3>
 
